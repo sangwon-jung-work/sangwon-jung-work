@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ## 써본 기술
 - JavaScript, jQuery
 - JAVA
-  - Spring, myBatis, SOAP, HTTP, SSL
+  - Spring, myBatis, SOAP, Restful, 행정정보공동이용(SOAP, GPKI)
 - DB
   - Oralce, MS-SQL
 - Linux
 
 ## 관심사
-- Node.js, SpringBoot, Docker
+- SpringBoot, Node.js, Docker
   - 개인 프로젝트중(틈틈히 Repo 공개중)
 - DevOps
   - 최종 커리어 목표
