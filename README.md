@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Linux
 
 ## 관심사
-- SpringBoot, Node.js, Docker
+- SpringBoot, Go, Docker
   - 개인 프로젝트중(틈틈히 Repo 공개중)
 - DevOps
   - 최종 커리어 목표
@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 
 - 필요한 것 만들어보기
   - 디지털 음원/음반/블루레이 구입목록 관리 툴(SpringBoot, Node.js. Restful API + TOAST ui Grid)
+  - 라즈베리파이 실내 온도/습도/기압 측정 및 기록계(Raspberrypi4 + BME280, Go)
